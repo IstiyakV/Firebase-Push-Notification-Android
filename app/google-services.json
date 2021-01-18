@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "206419880762",
-    "project_id": "pushnotificationtest-aec39",
-    "storage_bucket": "pushnotificationtest-aec39.appspot.com"
+    "project_number": ".....",
+    "project_id": ".....",
+    "storage_bucket": "......"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:206419880762:android:a6ec5980017b5b84b07e03",
+        "mobilesdk_app_id": "......",
         "android_client_info": {
           "package_name": "me.isty.firebasepushnotificationexample"
         }
       },
       "oauth_client": [
         {
-          "client_id": "206419880762-sbk1el18vtv55bl7657704g4s4i70gji.apps.googleusercontent.com",
+          "client_id": "......",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCyECMVoY7gY9e4L1YzihdTaoQQZO4Il7Y"
+          "current_key": "......."
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "206419880762-sbk1el18vtv55bl7657704g4s4i70gji.apps.googleusercontent.com",
+              "client_id": ".....",
               "client_type": 3
             }
           ]
