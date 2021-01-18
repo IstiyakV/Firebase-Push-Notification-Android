@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebasePushNotificationExample</string>
+    <string name="msg_token_fmt">abcd</string>
+</resources>
